@@ -1,5 +1,5 @@
 # VehicleHiringSystem
--Vehicle Hiring System that serves for the VPark company.
+- Vehicle Hiring System that serves for the VPark company.
 Basically, there are different types of vehicles, some can be hired for different time periods, with different
 fees and may be with some extra costs. Some certain types of vehicles can be booked for future rentals,
 some can be delivered to the renter’s position to be picked up, and some can be dropped off another
